@@ -9,5 +9,10 @@
 span {
     color: rgb(27, 72, 124);
     font-family: cursive;
-    margin: 200px;
+}
+
+.contain{
+    background-color: rgb(168, 147, 147);
+    border: 2px solid black;
+    border-radius: 5px;
 }
